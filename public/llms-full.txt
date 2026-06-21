@@ -2283,7 +2283,10 @@ Description: צריכים עזרה, יש לכם שאלה או סתם בא לכם
 
 
 מדיניות פרטיות
-תנאי שימוש
+תנאי שימוש  |
+
+מדיניות החזרות
+
 נגישות
 נוצר באמצעות Zappy
 
@@ -5963,6 +5966,143 @@ Description: אליהלי - תודה שפניתם | אליהלי
 
 נגישות
 נוצר באמצעות Zappy
+
+---
+
+## Product Catalog
+
+### פינצטה חשמלית להסרת שיער פנים
+URL: https://example.com/product/pyntsth-chshmlyt-lhsrt-shyar-pnym-kmjk0s
+Price: 9.50 ILS
+Availability: In stock
+
+פינצטה חשמלית אוטומטית להסרת שיער פנים עדין. מסירה מהשורש ללא כאב, מתאימה לגבות, שפם ופאות. סוללה מובנית נטענת, נורת LED, ראש מתחלף.
+
+---
+
+### מארגן כבלים סיליקון – סט 12 חלקים
+URL: https://example.com/product/margn-kblym-sylykvn-st-12-chlkym-vkkeo2
+Price: 4.90 ILS
+Availability: In stock
+
+סט 12 מארגני כבלים מסיליקון גמיש עם סקוטש. שומר על שולחן העבודה מסודר. מתאים לכבלי USB, HDMI, אוזניות, מטענים ועוד. צבעוני, עמיד, רב-פעמי.
+
+---
+
+### מנורת לילה כוכבים – מקרן גלקסיה
+URL: https://example.com/product/mnvrt-lylh-kvkbym-mkrn-glksyh-blq0a2
+Price: 9.90 ILS
+Availability: In stock
+
+מקרן כוכבים וגלקסיה לחדר שינה. יוצר אפקט שמיים זרועי כוכבים על התקרה והקירות. 16 צבעים, מוזיקה בלוטות', טיימר כיבוי אוטומטי. מושלם לחדרי ילדים ואווירה רומנטית.
+
+---
+
+### מחזיק לטלפון לרכב – מגנטי 360°
+URL: https://example.com/product/mchzyk-ltlpvn-lrkb-mgnty-360-5k2vno
+Price: 8.50 ILS
+Availability: In stock
+
+מחזיק טלפון מגנטי לרכב עם סיבוב 360 מעלות. התקנה קלה על פתח מיזוג. אחיזה חזקה במיוחד, תואם לכל הסמארטפונים. כולל פלטות מתכת דביקות. עיצוב מתכת אלגנטי.
+
+---
+
+### מברשת ניקוי פנים חשמלית – סיליקון
+URL: https://example.com/product/mbrsht-nykvy-pnym-chshmlyt-sylykvn-hzay3y
+Price: 7.50 ILS
+Availability: In stock
+
+מברשת ניקוי פנים חשמלית מסיליקון רך, 6 מהירויות רטט. עמידה במים IPX7, סוללה נטענת USB-C. מסירה איפור, לכלוך ושומן, מתאימה לכל סוגי העור. מגיעה עם נרתיק נסיעות.
+
+---
+
+### שלט חכם אוניברסלי – שולט בכל מכשירי ה-IR
+URL: https://example.com/product/shlt-chkm-avnybrsly-shvlt-bkl-mkshyry-h-ir-nrvelo
+Price: 9.90 ILS
+Availability: In stock
+
+שלט חכם WiFi אינפרה-אדום אוניברסלי. שולט במזגן, טלוויזיה, ממיר, מאוורר וכל מכשיר IR. נשלט דרך אפליקציה מכל מקום בעולם. תומך בתזמונים, סצנות אוטומטיות ושליטה קולית.
+
+---
+
+### גרביים בלתי נראות – סט 10 זוגות
+URL: https://example.com/product/grbyym-blty-nravt-st-10-zvgvt-gl0kwb
+Price: 6.90 ILS
+Availability: In stock
+
+סט 10 זוגות גרבונים בלתי נראים מסיליקון ג'ל מונע החלקה. מתאימים לנעלי סניקרס, נעלי ספורט וקז'ואל. נושמים, דקים במיוחד, כותנה איכותית. מידה אוניברסלית 36-44.
+
+---
+
+### קופסת אוכל מחוממת חשמלית 1.5L
+URL: https://example.com/product/kvpst-avkl-mchvmmt-chshmlyt-15l-zfxik3
+Price: 9.90 ILS
+Availability: In stock
+
+קופסת אוכל חשמלית לחימום אוכל בעבודה, בלימודים או בדרכים. נפח 1.5 ליטר, מתחברת ל-USB או לשקע חשמל. מחממת ל-70 מעלות ב-30 דקות. פלדת אל-חלד, מכסה אטום.
+
+---
+
+### טבעת אור לסלפי – 36 נורות LED
+URL: https://example.com/product/tbat-avr-lslpy-36-nvrvt-led-04fyzj
+Price: 8.90 ILS
+Availability: In stock
+
+טבעת תאורה לסלפי קליפ לטלפון עם 36 נורות LED. 3 מצבי תאורה (חם/קר/טבעי) ו-10 רמות בהירות. נטענת USB, מתאימה לכל הסמארטפונים. מושלמת לסלפי, צילומי טיקטוק ואיפור.
+
+---
+
+### סט 50 מדבקות ממים לוואטסאפ – אימוג'י
+URL: https://example.com/product/st-50-mdbkvt-mmym-lvvatsap-aymvgy-jmm7qs
+Price: 3.90 ILS
+Availability: In stock
+
+סט 50 מדבקות איכותיות עמידות במים – אימוג'ים, ממים מצחיקים, חיות ועיצובים מגניבים. מתאימות לקישוט לפטופ, בקבוק מים, טאבלט, קלסר ועוד. כל מדבקה בגודל 4-7 ס"מ.
+
+---
+
+### מאוורר צוואר USB נטען – 3 מהירויות
+URL: https://example.com/product/mavvrr-tsvvar-usb-ntan-3-mhyrvyvt-zqb8op
+Price: 7.90 ILS
+Availability: In stock
+
+מאוורר צוואר מתכוונן ללא להבים, 3 מהירויות, סוללה נטענת USB-C. עיצוב ארגונומי קל משקל 250 גרם. מושלם לקיץ, נסיעות, ספורט ועבודה. שקט במיוחד, סוללה ל-6 שעות.
+
+---
+
+### אוזניות בלוטות' TWS – ביטול רעשים
+URL: https://example.com/product/avznyvt-blvtvt-tws-bytvl-rashym-89xi4s
+Price: 9.50 ILS
+Availability: In stock
+
+אוזניות True Wireless Stereo עם טכנולוגיית ביטול רעשים אקטיבי ENC. זמן סוללה 5 שעות + 25 שעות עם קייס הטעינה. בלוטות' 5.3, מגע חכם, עמידות במים IPX5. מגיעות עם 3 זוגות סיליקון.
+
+---
+
+### מנורת LED חכמה RGB – נשלטת באפליקציה
+URL: https://example.com/product/mnvrt-led-chkmh-rgb-nshltt-baplyktsyh-ywtxmy
+Price: 9.90 ILS
+Availability: In stock
+
+נורת LED חכמה 16 מיליון צבעים, נשלטת דרך אפליקציה. עובדת עם WiFi, תומכת בתזמונים, דימינג, סנכרון מוזיקה ושליטה קולית. 9W, תואמת Alexa ו-Google Assistant.
+
+---
+
+### סט 3 כבלי USB-C ניילון קלוע – 1 מטר
+URL: https://example.com/product/st-3-kbly-usb-c-nyylvn-klva-1-mtr-xvu9tc
+Price: 8.50 ILS
+Availability: In stock
+
+סט 3 כבלי USB-C איכותיים בציפוי ניילון קלוע עמיד. תומכים בטעינה מהירה 60W והעברת נתונים. מתאימים לכל מכשירי ה-USB-C – סמארטפונים, טאבלטים, אוזניות ועוד.
+
+---
+
+### מטען אלחוטי מהיר MagSafe – 15W
+URL: https://example.com/product/mtan-alchvty-mhyr-magsafe-15w-3kxrql
+Price: 9.90 ILS
+Availability: In stock
+
+מטען אלחוטי מגנטי תואם MagSafe לטעינה מהירה 15W. תואם לכל מכשירי האייפון והאנדרואיד התומכים בטעינה אלחוטית. עיצוב קומפקטי, נורת LED כחולה, הגנה מפני התחממות יתר.
 
 ---
 

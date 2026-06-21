@@ -4,6 +4,171 @@
     <title>אליהלי</title>
     <link>https://example.com</link>
     <description>Product feed for אליהלי</description>
-    <lastBuildDate>Sun, 21 Jun 2026 18:32:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 18:43:52 GMT</lastBuildDate>
+    <item>
+      <g:id>b7eaa3a3-fd85-44c6-9adf-fa11ebbb6a3e</g:id>
+      <g:title>פינצטה חשמלית להסרת שיער פנים</g:title>
+      <g:description>פינצטה חשמלית אוטומטית להסרת שיער פנים עדין. מסירה מהשורש ללא כאב, מתאימה לגבות, שפם ופאות. סוללה מובנית נטענת, נורת LED, ראש מתחלף.</g:description>
+      <g:link>https://example.com/product/pyntsth-chshmlyt-lhsrt-shyar-pnym-kmjk0s</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.50 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>f612bc16-5728-47bd-a3b8-48cf969369ec</g:id>
+      <g:title>מארגן כבלים סיליקון – סט 12 חלקים</g:title>
+      <g:description>סט 12 מארגני כבלים מסיליקון גמיש עם סקוטש. שומר על שולחן העבודה מסודר. מתאים לכבלי USB, HDMI, אוזניות, מטענים ועוד. צבעוני, עמיד, רב-פעמי.</g:description>
+      <g:link>https://example.com/product/margn-kblym-sylykvn-st-12-chlkym-vkkeo2</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>4.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>7d0f7cbe-8dcc-4315-9a47-f9be283ed67d</g:id>
+      <g:title>מנורת לילה כוכבים – מקרן גלקסיה</g:title>
+      <g:description>מקרן כוכבים וגלקסיה לחדר שינה. יוצר אפקט שמיים זרועי כוכבים על התקרה והקירות. 16 צבעים, מוזיקה בלוטות&apos;, טיימר כיבוי אוטומטי. מושלם לחדרי ילדים ואווירה רומנטית.</g:description>
+      <g:link>https://example.com/product/mnvrt-lylh-kvkbym-mkrn-glksyh-blq0a2</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>c751187d-877e-4627-a782-37e3db26f62a</g:id>
+      <g:title>מחזיק לטלפון לרכב – מגנטי 360°</g:title>
+      <g:description>מחזיק טלפון מגנטי לרכב עם סיבוב 360 מעלות. התקנה קלה על פתח מיזוג. אחיזה חזקה במיוחד, תואם לכל הסמארטפונים. כולל פלטות מתכת דביקות. עיצוב מתכת אלגנטי.</g:description>
+      <g:link>https://example.com/product/mchzyk-ltlpvn-lrkb-mgnty-360-5k2vno</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>8.50 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>a46286b8-e889-45e8-8e06-04b4011b4fa7</g:id>
+      <g:title>מברשת ניקוי פנים חשמלית – סיליקון</g:title>
+      <g:description>מברשת ניקוי פנים חשמלית מסיליקון רך, 6 מהירויות רטט. עמידה במים IPX7, סוללה נטענת USB-C. מסירה איפור, לכלוך ושומן, מתאימה לכל סוגי העור. מגיעה עם נרתיק נסיעות.</g:description>
+      <g:link>https://example.com/product/mbrsht-nykvy-pnym-chshmlyt-sylykvn-hzay3y</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>7.50 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>1e650054-68d1-4487-ac38-f35d76d86f60</g:id>
+      <g:title>שלט חכם אוניברסלי – שולט בכל מכשירי ה-IR</g:title>
+      <g:description>שלט חכם WiFi אינפרה-אדום אוניברסלי. שולט במזגן, טלוויזיה, ממיר, מאוורר וכל מכשיר IR. נשלט דרך אפליקציה מכל מקום בעולם. תומך בתזמונים, סצנות אוטומטיות ושליטה קולית.</g:description>
+      <g:link>https://example.com/product/shlt-chkm-avnybrsly-shvlt-bkl-mkshyry-h-ir-nrvelo</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>ac28195d-75e2-48fa-a754-cf2b3e64bfb8</g:id>
+      <g:title>גרביים בלתי נראות – סט 10 זוגות</g:title>
+      <g:description>סט 10 זוגות גרבונים בלתי נראים מסיליקון ג&apos;ל מונע החלקה. מתאימים לנעלי סניקרס, נעלי ספורט וקז&apos;ואל. נושמים, דקים במיוחד, כותנה איכותית. מידה אוניברסלית 36-44.</g:description>
+      <g:link>https://example.com/product/grbyym-blty-nravt-st-10-zvgvt-gl0kwb</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>6.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>99db7646-a34b-4f6d-8f37-1241757eeb07</g:id>
+      <g:title>קופסת אוכל מחוממת חשמלית 1.5L</g:title>
+      <g:description>קופסת אוכל חשמלית לחימום אוכל בעבודה, בלימודים או בדרכים. נפח 1.5 ליטר, מתחברת ל-USB או לשקע חשמל. מחממת ל-70 מעלות ב-30 דקות. פלדת אל-חלד, מכסה אטום.</g:description>
+      <g:link>https://example.com/product/kvpst-avkl-mchvmmt-chshmlyt-15l-zfxik3</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>b784299f-cb05-4224-969f-069ad73001e2</g:id>
+      <g:title>טבעת אור לסלפי – 36 נורות LED</g:title>
+      <g:description>טבעת תאורה לסלפי קליפ לטלפון עם 36 נורות LED. 3 מצבי תאורה (חם/קר/טבעי) ו-10 רמות בהירות. נטענת USB, מתאימה לכל הסמארטפונים. מושלמת לסלפי, צילומי טיקטוק ואיפור.</g:description>
+      <g:link>https://example.com/product/tbat-avr-lslpy-36-nvrvt-led-04fyzj</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>8.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>62cbf7e7-878a-4b10-adb8-8b738e3b9899</g:id>
+      <g:title>סט 50 מדבקות ממים לוואטסאפ – אימוג&apos;י</g:title>
+      <g:description>סט 50 מדבקות איכותיות עמידות במים – אימוג&apos;ים, ממים מצחיקים, חיות ועיצובים מגניבים. מתאימות לקישוט לפטופ, בקבוק מים, טאבלט, קלסר ועוד. כל מדבקה בגודל 4-7 ס&quot;מ.</g:description>
+      <g:link>https://example.com/product/st-50-mdbkvt-mmym-lvvatsap-aymvgy-jmm7qs</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>3.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>9bcc40e7-d2db-4781-9c7f-7b61618fb6cd</g:id>
+      <g:title>מאוורר צוואר USB נטען – 3 מהירויות</g:title>
+      <g:description>מאוורר צוואר מתכוונן ללא להבים, 3 מהירויות, סוללה נטענת USB-C. עיצוב ארגונומי קל משקל 250 גרם. מושלם לקיץ, נסיעות, ספורט ועבודה. שקט במיוחד, סוללה ל-6 שעות.</g:description>
+      <g:link>https://example.com/product/mavvrr-tsvvar-usb-ntan-3-mhyrvyvt-zqb8op</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>7.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>bf61c10a-97ab-44ad-906f-05158b036e0f</g:id>
+      <g:title>אוזניות בלוטות&apos; TWS – ביטול רעשים</g:title>
+      <g:description>אוזניות True Wireless Stereo עם טכנולוגיית ביטול רעשים אקטיבי ENC. זמן סוללה 5 שעות + 25 שעות עם קייס הטעינה. בלוטות&apos; 5.3, מגע חכם, עמידות במים IPX5. מגיעות עם 3 זוגות סיליקון.</g:description>
+      <g:link>https://example.com/product/avznyvt-blvtvt-tws-bytvl-rashym-89xi4s</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.50 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>39ee5841-583e-4c71-b409-fcf504653ade</g:id>
+      <g:title>מנורת LED חכמה RGB – נשלטת באפליקציה</g:title>
+      <g:description>נורת LED חכמה 16 מיליון צבעים, נשלטת דרך אפליקציה. עובדת עם WiFi, תומכת בתזמונים, דימינג, סנכרון מוזיקה ושליטה קולית. 9W, תואמת Alexa ו-Google Assistant.</g:description>
+      <g:link>https://example.com/product/mnvrt-led-chkmh-rgb-nshltt-baplyktsyh-ywtxmy</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>792a307e-68b3-40c1-8853-e73b79146209</g:id>
+      <g:title>סט 3 כבלי USB-C ניילון קלוע – 1 מטר</g:title>
+      <g:description>סט 3 כבלי USB-C איכותיים בציפוי ניילון קלוע עמיד. תומכים בטעינה מהירה 60W והעברת נתונים. מתאימים לכל מכשירי ה-USB-C – סמארטפונים, טאבלטים, אוזניות ועוד.</g:description>
+      <g:link>https://example.com/product/st-3-kbly-usb-c-nyylvn-klva-1-mtr-xvu9tc</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>8.50 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>59d1984d-990c-4e3f-8b58-5ef97b6e2ee4</g:id>
+      <g:title>מטען אלחוטי מהיר MagSafe – 15W</g:title>
+      <g:description>מטען אלחוטי מגנטי תואם MagSafe לטעינה מהירה 15W. תואם לכל מכשירי האייפון והאנדרואיד התומכים בטעינה אלחוטית. עיצוב קומפקטי, נורת LED כחולה, הגנה מפני התחממות יתר.</g:description>
+      <g:link>https://example.com/product/mtan-alchvty-mhyr-magsafe-15w-3kxrql</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>9.90 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>אליהלי</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
